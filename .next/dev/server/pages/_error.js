@@ -1,0 +1,8 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/pages/_error.js")
+R.c("server/chunks/ssr/168ee_89d8ba52._.js")
+R.c("server/chunks/ssr/[externals]_next_dist_shared_lib_no-fallback-error_external_59b92b38.js")
+R.c("server/chunks/ssr/168ee__pnpm_c0e7eaec._.js")
+R.c("server/chunks/ssr/[externals]__e6a4d965._.js")
+R.c("server/chunks/ssr/e4f8f_next_307e0220._.js")
+R.m("[project]/my-next-app/node_modules/.pnpm/next@16.1.4_@babel+core@7.2_795185d4d8aa919df0c6d7b1b45ef0b6/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/my-next-app/node_modules/next/error.js [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/my-next-app/node_modules/.pnpm/next@16.1.4_@babel+core@7.2_795185d4d8aa919df0c6d7b1b45ef0b6/node_modules/next/document.js [ssr] (ecmascript)\", INNER_APP => \"[project]/my-next-app/node_modules/.pnpm/next@16.1.4_@babel+core@7.2_795185d4d8aa919df0c6d7b1b45ef0b6/node_modules/next/app.js [ssr] (ecmascript)\" } [ssr] (ecmascript)")
+module.exports=R.m("[project]/my-next-app/node_modules/.pnpm/next@16.1.4_@babel+core@7.2_795185d4d8aa919df0c6d7b1b45ef0b6/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/my-next-app/node_modules/next/error.js [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/my-next-app/node_modules/.pnpm/next@16.1.4_@babel+core@7.2_795185d4d8aa919df0c6d7b1b45ef0b6/node_modules/next/document.js [ssr] (ecmascript)\", INNER_APP => \"[project]/my-next-app/node_modules/.pnpm/next@16.1.4_@babel+core@7.2_795185d4d8aa919df0c6d7b1b45ef0b6/node_modules/next/app.js [ssr] (ecmascript)\" } [ssr] (ecmascript)").exports

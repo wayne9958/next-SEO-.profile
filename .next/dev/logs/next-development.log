@@ -1,0 +1,2760 @@
+[00:00:02.231] Server  LOG     ✓ Ready in 1614ms
+[00:00:12.556] Server  ERROR   ⨯ Error: The default export is not a React Component in "/page"
+[00:00:12.928] Server  ERROR   ⨯ Error: The default export is not a React Component in "/page"
+[00:00:13.603] Server  ERROR   ⨯ Error: The default export is not a React Component in "/page"
+[00:00:14.063] Server  ERROR   ⨯ Error: The default export is not a React Component in "/page"
+[00:00:15.169] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/page"
+[00:00:52.137] Server  ERROR   ⨯ Error: The default export is not a React Component in "/page"
+[00:00:52.467] Server  ERROR   ⨯ Error: The default export is not a React Component in "/page"
+[00:00:52.708] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/page"
+[00:01:53.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:02.549] Server  LOG     ✓ Compiled in 56ms
+[00:08:04.398] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:08.885] Server  LOG     ✓ Compiled in 23ms
+[00:13:03.759] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.760] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.762] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.763] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.765] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.767] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.768] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.769] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.771] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.773] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.774] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.776] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.777] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.778] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.780] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.782] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.784] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.786] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.786] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.787] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.789] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.790] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.792] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:03.793] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.239] Browser ERROR   ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './app/Contact'
+  1 | import { Hero } from './app/Hero';
+> 2 | import { Contact } from './app/Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:04.239] Browser ERROR   ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './app/Hero'
+> 1 | import { Hero } from './app/Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './app/Contact';
+  3 |
+  4 | export default function App() {
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:23.354] Server  LOG     ✓ Compiled in 33ms
+[00:13:28.674] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:29.120] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:51.122] Server  LOG     ✓ Compiled in 54ms
+[00:16:20.922] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.924] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.926] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.928] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.931] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.933] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.935] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.938] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.944] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.945] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.948] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:20.950] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:21.245] Browser ERROR   ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:25.279] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.281] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.283] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.285] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.287] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.289] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.291] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.292] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.293] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.296] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.298] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.299] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.301] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.303] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.305] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.307] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.308] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.310] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.311] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.312] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.315] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.316] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.316] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:25.317] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:26.242] Browser ERROR   ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:26.242] Browser ERROR   ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:34.241] Browser ERROR   ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:34.241] Browser ERROR   ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:36.737] Server  ERROR   ⨯ ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:37.095] Browser ERROR   uncaughtError: Error: ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:16:37.355] Browser ERROR   ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:37.355] Browser ERROR   ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:37.355] Browser ERROR   ./my-next-app/app/page.tsx:2:1
+Module not found: Can't resolve './Contact'
+  1 | import { Hero } from './Hero';
+> 2 | import { Contact } from './Contact';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function App() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:37.355] Browser ERROR   ./my-next-app/app/page.tsx:1:1
+Module not found: Can't resolve './Hero'
+> 1 | import { Hero } from './Hero';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { Contact } from './Contact';
+  3 |
+  4 | export default function App() {
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:41.492] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:22.798] Server  LOG     ✓ Compiled in 45ms
+[00:24:23.240] Browser ERROR   ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+[00:24:31.002] Server  ERROR   ⨯ ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+
+
+[00:24:31.371] Browser ERROR   uncaughtError: Error: ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+
+
+[00:24:31.480] Browser ERROR   ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+[00:24:31.592] Browser ERROR   ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+[00:24:40.131] Browser ERROR   ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+[00:25:22.245] Browser ERROR   ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+[00:26:19.246] Browser ERROR   ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+[00:26:59.571] Server  LOG     ✓ Compiled in 131ms
+[00:27:00.101] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:06.167] Server  LOG     ✓ Compiled in 29ms
+[00:30:10.168] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:09.201] Server  LOG     ✓ Compiled in 32ms
+[00:34:10.235] Browser ERROR   ./my-next-app/app/conponents/Contact.tsx:2:10
+Ecmascript file had an error
+  1 | import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Contact() {
+  5 |   const [activeTab, setActiveTab] = useState<'contact' | 'experience' | 'projects'>('contact');
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Contact.tsx
+    ./my-next-app/app/page.tsx
+[00:34:31.815] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:15.297] Server  LOG     ✓ Compiled in 27ms
+[00:35:36.255] Server  LOG     ✓ Compiled in 27ms
+[00:35:43.719] Server  LOG     ✓ Compiled in 33ms
+[00:35:46.649] Server  LOG     ✓ Compiled in 24ms
+[00:35:54.182] Server  LOG     ✓ Compiled in 30ms
+[00:36:31.360] Server  LOG     ✓ Compiled in 24ms
+[00:36:46.428] Server  LOG     ✓ Compiled in 30ms
+[00:36:55.701] Server  LOG     ✓ Compiled in 27ms
+[00:38:46.329] Server  LOG     ✓ Compiled in 48ms
+[00:38:47.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:26.233] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:27.244] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:27.244] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:27.244] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:31.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:31.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:31.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:31.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:39.236] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:39.236] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:39.236] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:39.236] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:42.240] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:46.234] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:39:47.232] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:41:45.246] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:41:45.246] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:41:45.246] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:41:45.246] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:42:20.239] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:42:21.245] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:42:24.233] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:42:24.233] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:42:24.233] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx
+[00:42:27.242] Browser ERROR   ./my-next-app/app/conponents/Hero.tsx:2:10
+Ecmascript file had an error
+  1 | import { LogIn, X } from 'lucide-react';
+> 2 | import { useState } from 'react';
+    |          ^^^^^^^^
+  3 |
+  4 | export function Hero() {
+  5 |   const [showLoginModal, setShowLoginModal] = useState(false);
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./my-next-app/app/conponents/Hero.tsx
+    ./my-next-app/app/page.tsx

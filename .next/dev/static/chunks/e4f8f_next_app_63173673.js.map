@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/spnk0/OneDrive/%E6%A1%8C%E9%9D%A2/a/my-next-app/node_modules/.pnpm/next%4016.1.4_%40babel%2Bcore%407.2_795185d4d8aa919df0c6d7b1b45ef0b6/node_modules/next/app.js"],"sourcesContent":["module.exports = require('./dist/pages/_app')\n"],"names":[],"mappings":"AAAA,OAAO,OAAO","ignoreList":[0]}}]
+}
