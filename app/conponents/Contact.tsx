@@ -5,18 +5,9 @@ import { useState } from 'react';
 export function Contact() {
   const [activeTab, setActiveTab] = useState<'contact' | 'experience' | 'projects'>('contact');
 
-const exp = [
-  {
-    name: '天方',
-    text: (
-      <>
-        天方科技(2024/7~2025/8)：
-        <br /><br />
-        前端工程師
-      </>
-    ),
-  },
-]
+  const exp = [
+    { name: '天方', text: '前端工程師' }
+  ];
 
   const projects = [
     { name: '台藝大', text: '台藝大師培作業' },
