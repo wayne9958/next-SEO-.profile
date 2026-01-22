@@ -29,7 +29,7 @@ export function AdminPanel() {
 
   // 負責同步到本地表單 (只在 userData 改變且本地表單為空時執行)
   useEffect(() => {
-    if (userData) {
+    if (userData && formData.email === "") {
       // eslint-disable-next-line react-hooks/set-state-in-effect
       setFormData({
         email: userData.email || "",
