@@ -122,18 +122,24 @@ export function Contact() {
                   </div>
                   <div>
                     <h3 className="text-slate-900 mb-1">gitHub</h3>
-                    <a
-                      href={
-                        userData?.linkedin?.startsWith("http")
-                          ? userData.linkedin
-                          : `https://${userData?.linkedin}`
-                      }
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-blue-600 hover:text-blue-800 hover:underline transition-colors flex items-center gap-1"
-                    >
-                      {userData?.linkedin}
-                    </a>
+                    <p className="text-slate-600">
+                      {userData?.linkedin ? (
+                        <a
+                          href={
+                            userData.linkedin.startsWith("http")
+                              ? userData.linkedin
+                              : `https://${userData.linkedin}`
+                          }
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-blue-600 hover:underline"
+                        >
+                          {userData.linkedin}
+                        </a>
+                      ) : (
+                        ""
+                      )}
+                    </p>
                   </div>
                 </div>
               </div>
