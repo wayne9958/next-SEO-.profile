@@ -5,12 +5,12 @@ const client = new MongoClient(process.env.MONGODB_URI);
 
 export async function GET(request, { params }) {
   try {
-    const { id } = params;
+    const { id } = await  params;
     await client.connect();
     const users = client.db("next").collection("main");
 
 
-    const userData = await users.findOne({ id: id });
+    const userData = await users.findOne({ _id: id });
 
     if (!userData) {
       return NextResponse.json({ error: "找不到使用者" }, { status: 404 });
